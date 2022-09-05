@@ -1,0 +1,9 @@
+theme: jekyll-theme-minimal
+title: Hello!
+description: Basic info about me
+logo: assets/profile.jpg
+email: bbatalo@hotmail.com
+# linkedin: erica-shimomoto
+# researchgate: Erica-Kido-Shimomoto-2
+kramdown:  
+  parse_block_html: true
