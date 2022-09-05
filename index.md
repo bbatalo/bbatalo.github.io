@@ -16,27 +16,23 @@ My main research topic involves applying subspace/manifold-based methods to patt
 - [Awards](#awards-top)
 - [Honors](#honors-top)
 - [Language Proficiency](#language-proficiency-top)
-- [Miscellaneous](#miscellaneous-top)
 
 ## Publications [[top](#bojan-batalo)]
 
 ### Journals
 
-1. (to be published) *Bojan Batalo*, Lincon S. Souza, Bernardo B. Gatto, Naoya Sogi, Kazuhiro Fukui (2022), Temporal-Stochastic Tensor Features for Action Recognition, Machine Learning with Applications.
-
-2. Neil Millar, *Bojan Batalo*, & Brian Budgell (2022). Trends in the Use of Promotional Language (Hype) in Abstracts of Successful National Institutes of Health Grant Applications, 1985-2020. JAMA Network Open [[pdf](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2795635)]
+1. (to be published) **Bojan Batalo**, Lincon S. Souza, Bernardo B. Gatto, Naoya Sogi, Kazuhiro Fukui (2022), Temporal-Stochastic Tensor Features for Action Recognition, Machine Learning with Applications.
+2. Neil Millar, **Bojan Batalo**, & Brian Budgell (2022). Trends in the Use of Promotional Language (Hype) in Abstracts of Successful National Institutes of Health Grant Applications, 1985-2020. JAMA Network Open [[pdf](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2795635)]
 
 ### International Conferences
 
-1. *Bojan Batalo*, Lincon S. Souza, Naoya Sogi, Bernardo B. Gatto, Kazuhiro Fukui, Analysis of Temporal Tensor Datasets on Product Grassmann Manifold, CVPR 2022 Workshop on Vision Datasets Understanding [[pdf](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2795635)]
-
-2. (to be published) Maha Mahyub, Lincon S. Souza, *Bojan Batalo*, Kazuhiro Fukui, Environmental sound classification based on CNN latent subspaces, International Workshop on Acoustic Signal Enhancement (IWAENC 2022).
-
-3. Dušan Radisavljević, *Bojan Batalo*, Rafal Rzepka & Kenji Araki, Text-Based Speaker Identification for Video Game Dialogues, IntelliSys 2021 [[pdf](https://link.springer.com/chapter/10.1007/978-3-030-82199-9_4)]
+1. **Bojan Batalo**, Lincon S. Souza, Naoya Sogi, Bernardo B. Gatto, Kazuhiro Fukui, Analysis of Temporal Tensor Datasets on Product Grassmann Manifold, CVPR 2022 Workshop on Vision Datasets Understanding [[pdf](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2795635)]
+2. (to be published) Maha Mahyub, Lincon S. Souza, **Bojan Batalo**, Kazuhiro Fukui, Environmental sound classification based on CNN latent subspaces, International Workshop on Acoustic Signal Enhancement (IWAENC 2022).
+3. Dušan Radisavljević, **Bojan Batalo**, Rafal Rzepka & Kenji Araki, Text-Based Speaker Identification for Video Game Dialogues, IntelliSys 2021 [[pdf](https://link.springer.com/chapter/10.1007/978-3-030-82199-9_4)]
 
 ### Other
 
-1. Milan Čeliković, Bojan Batalo, Dusan Radisavljević, Dinu Dragan & Zoran Anišić, 3D Avatar Platform — A Unique Configurator For 3D Figurine Customization, 8 International Conference on Mass Customization and Personalization (MCP-CE 2018) [[pdf](https://mcp-ce.org/wp-content/uploads/proceedings/2018/12_celikovic.pdf)]
+1. Milan Čeliković, **Bojan Batalo**, Dusan Radisavljević, Dinu Dragan & Zoran Anišić, 3D Avatar Platform — A Unique Configurator For 3D Figurine Customization, 8 International Conference on Mass Customization and Personalization (MCP-CE 2018) [[pdf](https://mcp-ce.org/wp-content/uploads/proceedings/2018/12_celikovic.pdf)]
 
 ## Education [[top](#bojan-batalo)]
 
@@ -51,3 +47,25 @@ My main research topic involves applying subspace/manifold-based methods to patt
 - 2021.04 - 2022.03: Research Assistant for Prof. Neil Millar - [corpuslinguist](http://www.corpuslinguist.com/index.html), Graduate School of Systems and Information Engineering, University of Tsukuba.
 - 2018.10 - 2019.03: Software Engineer at [Hybrid IT Solutions](https://hybrid-it.rs/).
 - 2017.10 - 2018.10: Software Engineer at DOOB Innovation Studio.
+
+## Research Fundings [[top](#bojan-batalo)]
+
+None yet.
+
+## Academic events organization [[top](#bojan-batalo)]
+
+- Co-chair for the [2021 CollaboTICS](https://collabotics2021.github.io/index.html), a collaborative workshop among the University of Tsukuba (Japan), University of Grenoble-Alpes (France) and the Ruhr-Universität Bochum (Germany).
+
+## Awards [[top](#bojan-batalo)]
+
+- Computer Science Special Award by the University of Tsukuba, for the organization of the [2021 CollaboTICS Workshop](#academic-events-organization), 2022, Japan.
+
+
+## Honors [[top](#bojan-batalo)]
+
+- MEXT Scholarship Awarded by the Japanese Government (2019 - 2023).
+
+## Language Proficiency [[top](#bojan-batalo)]
+
+- Serbian (native)
+- TOEFL IBT, 110 (2019)
