@@ -2,7 +2,7 @@
 
 e-mail: bbatalo@hotmail.com
 
-I am a PhD student at the Computer Vision Laboratory (CVLab), University of Tsukuba ([CVLab](https://en.home.cvlab.cs.tsukuba.ac.jp/), and technical staff in the Machine Learning Research Team (MLRT) [MLRT](https://www.airc.aist.go.jp/en/mlrt/), part of the Artificial Intelligence Research Center (AIRC), National Institute of Advanced Industrial Science and Technology ([AIST](https://www.aist.go.jp/index_en.html).
+I am a PhD student at the Computer Vision Laboratory ([CVLab](https://en.home.cvlab.cs.tsukuba.ac.jp/)), University of Tsukuba, and technical staff in the Machine Learning Research Team ([MLRT](https://www.airc.aist.go.jp/en/mlrt/)), part of the Artificial Intelligence Research Center (AIRC), National Institute of Advanced Industrial Science and Technology ([AIST](https://www.aist.go.jp/index_en.html).
 
 My main research topic involves applying subspace/manifold-based methods to pattern recognition problems. I'm fond of exploring different topics, and have done work on natural language processing, linguistics, sound classification and other stuff.
 
@@ -21,7 +21,7 @@ My main research topic involves applying subspace/manifold-based methods to patt
 
 ### Journals
 
-1. (to be published) **Bojan Batalo**, Lincon S. Souza, Bernardo B. Gatto, Naoya Sogi, Kazuhiro Fukui (2022), Temporal-Stochastic Tensor Features for Action Recognition, Machine Learning with Applications.
+1. **Bojan Batalo**, Lincon S. Souza, Bernardo B. Gatto, Naoya Sogi, Kazuhiro Fukui (2022), Temporal-Stochastic Tensor Features for Action Recognition, Machine Learning with Applications. [[pdf](https://www.sciencedirect.com/science/article/pii/S2666827022000822?via%3Dihub)]
 2. Neil Millar, **Bojan Batalo**, & Brian Budgell (2022). Trends in the Use of Promotional Language (Hype) in Abstracts of Successful National Institutes of Health Grant Applications, 1985-2020. JAMA Network Open [[pdf](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2795635)]
 
 ### International Conferences
