@@ -2,7 +2,7 @@
 
 e-mail: bbatalo@hotmail.com
 
-I am a PhD student at the Computer Vision Laboratory ([CVLab](https://en.home.cvlab.cs.tsukuba.ac.jp/)), University of Tsukuba, and technical staff in the Machine Learning Research Team ([MLRT](https://www.airc.aist.go.jp/en/mlrt/)), part of the Artificial Intelligence Research Center (AIRC), National Institute of Advanced Industrial Science and Technology ([AIST](https://www.aist.go.jp/index_en.html)).
+I am a PhD student under supervision of Prof. Kazuhiro Fukui, at the Computer Vision Laboratory ([CVLab](https://en.home.cvlab.cs.tsukuba.ac.jp/)), University of Tsukuba. Also, work as technical staff in the Machine Learning Research Team ([MLRT](https://www.airc.aist.go.jp/en/mlrt/)), part of the Artificial Intelligence Research Center (AIRC), National Institute of Advanced Industrial Science and Technology ([AIST](https://www.aist.go.jp/index_en.html)).
 
 My main research topic involves applying subspace/manifold-based methods to pattern recognition problems. I'm fond of exploring different topics, and have done work on natural language processing, linguistics, sound classification and other stuff.
 
@@ -27,11 +27,10 @@ My main research topic involves applying subspace/manifold-based methods to patt
 
 ### International Conferences
 
-1. **Bojan Batalo**, Lincon S. Souza, Naoya Sogi, Bernardo B. Gatto, Kazuhiro Fukui, Analysis of Temporal Tensor Datasets on Product Grassmann Manifold, CVPR 2022 Workshop on Vision Datasets Understanding [[pdf](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2795635)]
-2. Maha Mahyub, Lincon S. Souza, **Bojan Batalo**, Kazuhiro Fukui, Environmental sound classification based on CNN latent subspaces, International Workshop on Acoustic Signal Enhancement (IWAENC 2022).
+1. **Bojan Batalo**, Lincon S. Souza, Naoya Sogi, Bernardo B. Gatto, Kazuhiro Fukui, Analysis of Temporal Tensor Datasets on Product Grassmann Manifold, CVPR 2022 Workshop on Vision Datasets Understanding [[pdf](https://openaccess.thecvf.com/content/CVPR2022W/VDU/html/Batalo_Analysis_of_Temporal_Tensor_Datasets_on_Product_Grassmann_Manifold_CVPRW_2022_paper.html)]
+2. Maha Mahyub, Lincon S. Souza, **Bojan Batalo**, Kazuhiro Fukui, Environmental sound classification based on CNN latent subspaces, International Workshop on Acoustic Signal Enhancement (IWAENC 2022). [[pdf](https://ieeexplore.ieee.org/document/9914765)]
 3. Dušan Radisavljević, **Bojan Batalo**, Rafal Rzepka & Kenji Araki, Text-Based Speaker Identification for Video Game Dialogues, IntelliSys 2021 [[pdf](https://link.springer.com/chapter/10.1007/978-3-030-82199-9_4)]
-4. (to be published) Dušan Radisavljević, **Bojan Batalo**, Rafal Rzepka & Kenji Araki, Myers-Briggs Type Indicator and the Big Five Model - How Our Personality Affects Language Use, IEEE Asia-Pacific Conference on Computer Science and Data Engineering.
-
+4. (to be published) Dušan Radisavljević, **Bojan Batalo**, Rafal Rzepka & Kenji Araki, Myers-Briggs Type Indicator and the Big Five Model - How Our Personality Affects Language Use, IEEE Asia-Pacific Conference on Computer Science and Data Engineering 2022 (IEEE CSDE 2022).
 
 ### Other
 
