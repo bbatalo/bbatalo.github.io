@@ -23,12 +23,15 @@ My main research topic involves applying subspace/manifold-based methods to patt
 
 1. **Bojan Batalo**, Lincon S. Souza, Bernardo B. Gatto, Naoya Sogi, Kazuhiro Fukui (2022), Temporal-Stochastic Tensor Features for Action Recognition, Machine Learning with Applications. [[pdf](https://www.sciencedirect.com/science/article/pii/S2666827022000822?via%3Dihub)]
 2. Neil Millar, **Bojan Batalo**, Brian Budgell (2022). Trends in the Use of Promotional Language (Hype) in Abstracts of Successful National Institutes of Health Grant Applications, 1985-2020. JAMA Network Open [[pdf](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2795635)]
+3. Neil Millar, **Bojan Batalo**, Brian Budgell (2022). Trends in the Use of Promotional Language (Hype) in National Institutes of Health Funding Opportunity Announcements, 1992-2020. JAMA Network Open [[pdf](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2798831)]
 
 ### International Conferences
 
 1. **Bojan Batalo**, Lincon S. Souza, Naoya Sogi, Bernardo B. Gatto, Kazuhiro Fukui, Analysis of Temporal Tensor Datasets on Product Grassmann Manifold, CVPR 2022 Workshop on Vision Datasets Understanding [[pdf](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2795635)]
-2. (to be published) Maha Mahyub, Lincon S. Souza, **Bojan Batalo**, Kazuhiro Fukui, Environmental sound classification based on CNN latent subspaces, International Workshop on Acoustic Signal Enhancement (IWAENC 2022).
+2. Maha Mahyub, Lincon S. Souza, **Bojan Batalo**, Kazuhiro Fukui, Environmental sound classification based on CNN latent subspaces, International Workshop on Acoustic Signal Enhancement (IWAENC 2022).
 3. Dušan Radisavljević, **Bojan Batalo**, Rafal Rzepka & Kenji Araki, Text-Based Speaker Identification for Video Game Dialogues, IntelliSys 2021 [[pdf](https://link.springer.com/chapter/10.1007/978-3-030-82199-9_4)]
+4. (to be published) Dušan Radisavljević, **Bojan Batalo**, Rafal Rzepka & Kenji Araki, Myers-Briggs Type Indicator and the Big Five Model - How Our Personality Affects Language Use, IEEE Asia-Pacific Conference on Computer Science and Data Engineering.
+
 
 ### Other
 
