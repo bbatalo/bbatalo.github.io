@@ -2,7 +2,7 @@
 
 e-mail: bbatalo@hotmail.com
 
-I am a PhD student under supervision of Prof. Kazuhiro Fukui, at the Computer Vision Laboratory ([CVLab](https://en.home.cvlab.cs.tsukuba.ac.jp/)), University of Tsukuba. Also, work as technical staff in the Machine Learning Research Team ([MLRT](https://www.airc.aist.go.jp/en/mlrt/)), part of the Artificial Intelligence Research Center (AIRC), National Institute of Advanced Industrial Science and Technology ([AIST](https://www.aist.go.jp/index_en.html)).
+I am a postdoctoral researcher at Artificial Intelligence Research Center (AIRC), National Institute of Advanced Industrial Science and Technology ([AIST](https://www.aist.go.jp/index_en.html)). I am a part of Machine Learning Research Team ([MLRT](https://www.airc.aist.go.jp/en/mlrt/)).
 
 My main research topic involves applying subspace/manifold-based methods to pattern recognition problems. I'm fond of exploring different topics, and have done work on natural language processing, linguistics, sound classification and other stuff.
 
@@ -31,6 +31,11 @@ My main research topic involves applying subspace/manifold-based methods to patt
 2. Maha Mahyub, Lincon S. Souza, **Bojan Batalo**, Kazuhiro Fukui, Environmental sound classification based on CNN latent subspaces, International Workshop on Acoustic Signal Enhancement (IWAENC 2022). [[pdf](https://ieeexplore.ieee.org/document/9914765)]
 3. Dušan Radisavljević, **Bojan Batalo**, Rafal Rzepka & Kenji Araki, Text-Based Speaker Identification for Video Game Dialogues, IntelliSys 2021 [[pdf](https://link.springer.com/chapter/10.1007/978-3-030-82199-9_4)]
 4. (to be published) Dušan Radisavljević, **Bojan Batalo**, Rafal Rzepka & Kenji Araki, Myers-Briggs Type Indicator and the Big Five Model - How Our Personality Affects Language Use, IEEE Asia-Pacific Conference on Computer Science and Data Engineering 2022 (IEEE CSDE 2022).
+5. (accepted) Lincon S. Souza, **Bojan Batalo**, Keisuke Yamazaki, A geometric surrogate for simulation calibration, ICASSP 2023.
+
+### PhD Thesis
+
+- "Spatio-Temporal Tensor Analysis on Product Grassmann Manifolds and its Application to Action Recognition", Department of Computer Science, University of Tsukuba, Doctor of Engineering, 2023.
 
 ### Other
 
@@ -45,7 +50,8 @@ My main research topic involves applying subspace/manifold-based methods to patt
 
 ## Work Experience [[top](#bojan-batalo)]
 
-- 2022.01 - current: Technical Staff at [Machine Learning Research Team](https://www.airc.aist.go.jp/en/mlrt/), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
+- 2023.04 - current: Postdoctoral researcher at [Machine Learning Research Team](https://www.airc.aist.go.jp/en/mlrt/), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
+- 2022.01 - 2023.03: Technical Staff at [Machine Learning Research Team](https://www.airc.aist.go.jp/en/mlrt/), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
 - 2021.04 - 2022.03: Research Assistant for Prof. Neil Millar - [corpuslinguist](http://www.corpuslinguist.com/index.html), Graduate School of Systems and Information Engineering, University of Tsukuba.
 - 2018.10 - 2019.03: Software Engineer at [Hybrid IT Solutions](https://hybrid-it.rs/).
 - 2017.10 - 2018.10: Software Engineer at DOOB Innovation Studio.
@@ -56,7 +62,8 @@ My main research topic involves applying subspace/manifold-based methods to patt
 
 ## Academic events organization [[top](#bojan-batalo)]
 
-- Co-chair for the [2021 CollaboTICS](https://collabotics2021.github.io/index.html), a collaborative workshop among the University of Tsukuba (Japan), University of Grenoble-Alpes (France) and the Ruhr-Universität Bochum (Germany).
+- Co-chair for the [2021 CollaboTICS Workshop](https://collabotics2021.github.io/index.html), a collaborative workshop among the University of Tsukuba (Japan), University of Grenoble-Alpes (France) and the Ruhr-Universität Bochum (Germany).
+- Committee member for the [2022 CollaboTICS Workshop](https://collabotics2022.github.io/index.html), a collaborative workshop among the University of Tsukuba (Japan), University of Grenoble-Alpes (France) and the Ruhr-Universität Bochum (Germany).
 
 ## Awards [[top](#bojan-batalo)]
 
