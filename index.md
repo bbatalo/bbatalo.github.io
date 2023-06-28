@@ -30,8 +30,9 @@ My main research topic involves applying subspace/manifold-based methods to patt
 1. **Bojan Batalo**, Lincon S. Souza, Naoya Sogi, Bernardo B. Gatto, Kazuhiro Fukui, Analysis of Temporal Tensor Datasets on Product Grassmann Manifold, CVPR 2022 Workshop on Vision Datasets Understanding [[pdf](https://openaccess.thecvf.com/content/CVPR2022W/VDU/html/Batalo_Analysis_of_Temporal_Tensor_Datasets_on_Product_Grassmann_Manifold_CVPRW_2022_paper.html)]
 2. Maha Mahyub, Lincon S. Souza, **Bojan Batalo**, Kazuhiro Fukui, Environmental sound classification based on CNN latent subspaces, International Workshop on Acoustic Signal Enhancement (IWAENC 2022). [[pdf](https://ieeexplore.ieee.org/document/9914765)]
 3. Dušan Radisavljević, **Bojan Batalo**, Rafal Rzepka & Kenji Araki, Text-Based Speaker Identification for Video Game Dialogues, IntelliSys 2021 [[pdf](https://link.springer.com/chapter/10.1007/978-3-030-82199-9_4)]
-4. (to be published) Dušan Radisavljević, **Bojan Batalo**, Rafal Rzepka & Kenji Araki, Myers-Briggs Type Indicator and the Big Five Model - How Our Personality Affects Language Use, IEEE Asia-Pacific Conference on Computer Science and Data Engineering 2022 (IEEE CSDE 2022).
-5. (accepted) Lincon S. Souza, **Bojan Batalo**, Keisuke Yamazaki, A geometric surrogate for simulation calibration, ICASSP 2023.
+4. Dušan Radisavljević, **Bojan Batalo**, Rafal Rzepka & Kenji Araki, Myers-Briggs Type Indicator and the Big Five Model - How Our Personality Affects Language Use, IEEE Asia-Pacific Conference on Computer Science and Data Engineering 2022 (IEEE CSDE 2022). [[pdf](https://ieeexplore.ieee.org/abstract/document/10089309/)]
+5. Lincon S. Souza, **Bojan Batalo**, Keisuke Yamazaki, A geometric surrogate for simulation calibration, ICASSP 2023. [[pdf](https://ieeexplore.ieee.org/document/10096719)]
+6. (accepted) Djafer Yahia M Benchadi, **Bojan Batalo**, Kazuhiro Fukui, Malware detection using Kernel Constrained Subspace Method, MVA 2023.
 
 ### PhD Thesis
 
@@ -68,6 +69,7 @@ My main research topic involves applying subspace/manifold-based methods to patt
 ## Awards [[top](#bojan-batalo)]
 
 - Computer Science Special Award by the University of Tsukuba, for the organization of the [2021 CollaboTICS Workshop](#academic-events-organization), 2022, Japan.
+- Computer Science Special Award by the University of Tsukuba, for the organization of the [2022 CollaboTICS Workshop](#academic-events-organization), 2023, Japan.
 
 ## Honors [[top](#bojan-batalo)]
 
