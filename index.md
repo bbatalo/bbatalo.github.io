@@ -23,7 +23,7 @@ My main research topic involves applying subspace/manifold-based methods to patt
 
 #### 2023
 
-1. Neil Millar, Bryan Mathis, **Bojan Batalo**, Brian Budgell. Trends in the Expression of Epistemic Stance in NIH Research Funding Applications: 1985–2020. Applied Linguistics [[pdf](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2798831)]
+1. Neil Millar, Bryan Mathis, **Bojan Batalo**, Brian Budgell. Trends in the Expression of Epistemic Stance in NIH Research Funding Applications: 1985–2020. Applied Linguistics [[pdf](https://academic.oup.com/applij/advance-article-abstract/doi/10.1093/applin/amad050/7241375?redirectedFrom=fulltext)]
 2. Djafer Yahia M Benchadi, **Bojan Batalo**, Kazuhiro Fukui. Efficient Malware Analysis using Subspace based methods on Representative image patterns. IEEE Access [[pdf](https://ieeexplore.ieee.org/abstract/document/10244023)]
 
 #### 2022
