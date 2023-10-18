@@ -36,10 +36,13 @@ My main research topic involves applying subspace/manifold-based methods to patt
 
 #### 2023
 
-1. Djafer Yahia M Benchadi, **Bojan Batalo**, Kazuhiro Fukui, Malware detection using Kernel Constrained Subspace Method, MVA 2023.
-2. Lincon S. Souza, **Bojan Batalo**, Keisuke Yamazaki, A geometric surrogate for simulation calibration, ICASSP 2023. [[pdf](https://ieeexplore.ieee.org/document/10096719)]
+1. (to be published) **Bojan Batalo**, Lincon S. Souza, Keisuke Yamazaki, Statistical moments for simulation calibration with model-bridge, 12th International Conference on Mathematical Modeling in Physical Sciences (IC-Msquare 2023).
+2. (to be published) Maha Mahyub, Lincon S. Souza, **Bojan Batalo**, Keisuke Yamazaki, Random Fourier Surrogate for simulation calibration, 12th International Conference on Mathematical Modeling in Physical Sciences (IC-Msquare 2023).
+3. Djafer Yahia M Benchadi, **Bojan Batalo**, Kazuhiro Fukui, Malware detection using Kernel Constrained Subspace Method, MVA 2023.
+4. Lincon S. Souza, **Bojan Batalo**, Keisuke Yamazaki, A geometric surrogate for simulation calibration, ICASSP 2023. [[pdf](https://ieeexplore.ieee.org/document/10096719)]
 
 #### 2022
+
 
 1. Maha Mahyub, Lincon S. Souza, **Bojan Batalo**, Kazuhiro Fukui, Environmental sound classification based on CNN latent subspaces, International Workshop on Acoustic Signal Enhancement (IWAENC 2022). [[pdf](https://ieeexplore.ieee.org/document/9914765)]
 2. **Bojan Batalo**, Lincon S. Souza, Naoya Sogi, Bernardo B. Gatto, Kazuhiro Fukui, Analysis of Temporal Tensor Datasets on Product Grassmann Manifold, CVPR 2022 Workshop on Vision Datasets Understanding [[pdf](https://openaccess.thecvf.com/content/CVPR2022W/VDU/html/Batalo_Analysis_of_Temporal_Tensor_Datasets_on_Product_Grassmann_Manifold_CVPRW_2022_paper.html)]
